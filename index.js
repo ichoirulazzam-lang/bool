@@ -19,9 +19,9 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // Configuration
-const apikey = 'isidewek';
-const capikey = 'isidewek';
-const domain = 'isidewek';
+const apikey = 'ptla_v0mZwJszftBEXTUZS5hcUcYIHBapezx6jf3hiQiMjGe';
+const capikey = 'ptlc_OkYGEV6L2GdtXMrRrSM6XhUYBQI5egvjFboPxCIzoD5';
+const domain = 'https://zerossz.storeid.my.id';
 const nestid = '5';
 const egg = '15';
 const loc = '1';
