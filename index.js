@@ -19,8 +19,8 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // Configuration
-const apikey = 'ptla_Y2HOMbKyc8ZzMqJhejB8Dk6MOTeTV1AWrcHk4MA6JVo';
-const capikey = 'ptlc_g1dDCecWOk9F73C6LdtUjbFje4bqEbQjCgZG1S0whdC';
+const apikey = 'ptla_6UZF7GPzRkPbGlbLZhcf0Wf11E7ySWC4XXnvEzMKQNw';
+const capikey = 'ptlc_86RyIdQc75XZkPpGfw0D5LkC42XabqBEJyy8qoM8ZBy';
 const domain = 'https://zerossz.storeid.my.id';
 const nestid = '5';
 const egg = '15';
